@@ -1,2 +1,2 @@
-This to train the github
-then i firstly instrall the vs code
+This to train the github.
+then i firstly instrall the vs code.
